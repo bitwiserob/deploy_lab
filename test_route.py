@@ -1,7 +1,8 @@
 import requests
 
 # URL of the Flask application
-BASE_URL = "http://127.0.0.1:5000"  # Update if running on a different host or port
+BASE_URL = "https://test-deploy-ed9ef416445b.herokuapp.com/"  
+
 
 # Test data for the route
 test_payload = {
